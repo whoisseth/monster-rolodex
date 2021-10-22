@@ -1,0 +1,18 @@
+.search {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px 12px;
+    /* width: 150px; */
+    line-height: 30px;
+    margin-bottom: 30px;
+    /* My styles */
+    border: 2px solid #95dada;
+    margin-top: 12px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.search::placeholder {
+    text-align: center;
+}
